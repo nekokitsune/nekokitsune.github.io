@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: nekokitsune
+description: I make stuff and put them here
+plugins:
+- jekyll-remote-theme
